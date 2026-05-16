@@ -9,8 +9,8 @@
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/Ybourmaya/Anti-Bribery-app.git
-cd Anti-Bribery-app
+git clone https://github.com/Ybourmaya/Antibribery.git
+cd Antibribery
 ```
 
 2. **Install dependencies:**
